@@ -17,3 +17,6 @@ Instagram data for the task of Instagram reach analysis, this project is for you
 In this project, I will take you through Instagram Reach Analysis using Python,
 which will help content creators to understand how to adapt to the changes in
 Instagram in the long run.
+
+
+NOTE: • Here All Feature is numeric but Caption and Hashtags is Object
